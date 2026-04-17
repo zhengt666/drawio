@@ -1,12 +1,50 @@
-<mxfile host="app.diagrams.net">
+<mxfile host="app.diagrams.net" pages="2">
   <diagram name="第 1 页" id="aBDyTYgvCKKdyzrqYJjt">
     <mxGraphModel dx="1366" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="MDxfAGHaeUfAfawwGiXM-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="40" width="136" x="24" y="60" as="geometry" />
+        <mxCell id="-XLg5wcP90mpJ0sevKeQ-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;fixedHeader=1;swimlaneBody=1;swimlaneHead=1;horizontal=1;container=0;startSize=40;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;业务系统&lt;/span&gt;" vertex="1">
+          <mxGeometry height="430" width="150" x="30" y="80" as="geometry" />
         </mxCell>
+        <mxCell id="-XLg5wcP90mpJ0sevKeQ-2" parent="-XLg5wcP90mpJ0sevKeQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="MC" vertex="1">
+          <mxGeometry height="30" width="120" x="15" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-XLg5wcP90mpJ0sevKeQ-5" parent="-XLg5wcP90mpJ0sevKeQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="CEMON" vertex="1">
+          <mxGeometry height="30" width="120" x="15" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="-XLg5wcP90mpJ0sevKeQ-6" parent="-XLg5wcP90mpJ0sevKeQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="TMS" vertex="1">
+          <mxGeometry height="30" width="120" x="15" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="-XLg5wcP90mpJ0sevKeQ-7" parent="-XLg5wcP90mpJ0sevKeQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="SmartRACK" vertex="1">
+          <mxGeometry height="30" width="120" x="15" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="-XLg5wcP90mpJ0sevKeQ-8" parent="-XLg5wcP90mpJ0sevKeQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="日志数据" vertex="1">
+          <mxGeometry height="30" width="120" x="15" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="-XLg5wcP90mpJ0sevKeQ-9" parent="-XLg5wcP90mpJ0sevKeQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="CMDB" vertex="1">
+          <mxGeometry height="30" width="120" x="15" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="-XLg5wcP90mpJ0sevKeQ-10" parent="-XLg5wcP90mpJ0sevKeQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value=".. ..." vertex="1">
+          <mxGeometry height="30" width="120" x="15" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="-XLg5wcP90mpJ0sevKeQ-11" parent="1" style="swimlane;whiteSpace=wrap;html=1;fixedHeader=1;swimlaneBody=1;swimlaneHead=1;horizontal=1;container=0;startSize=40;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;数据湖仓&lt;/span&gt;" vertex="1">
+          <mxGeometry height="430" width="490" x="220" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-XLg5wcP90mpJ0sevKeQ-20" parent="-XLg5wcP90mpJ0sevKeQ-11" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="流批一体工具" vertex="1">
+          <mxGeometry height="260" width="100" x="20" y="95" as="geometry" />
+        </mxCell>
+        <mxCell id="-XLg5wcP90mpJ0sevKeQ-21" parent="-XLg5wcP90mpJ0sevKeQ-11" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.realtime_compute;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="40" y="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="q0SteM3hLk3AObQ5bE6x" name="第 2 页">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
