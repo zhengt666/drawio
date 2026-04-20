@@ -49,7 +49,7 @@
         <mxCell id="4r83p15s9ez-3FcvzZaR-23" edge="1" parent="-XLg5wcP90mpJ0sevKeQ-11" source="4r83p15s9ez-3FcvzZaR-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="4r83p15s9ez-3FcvzZaR-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4r83p15s9ez-3FcvzZaR-11" parent="-XLg5wcP90mpJ0sevKeQ-11" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Polaris 统一 Catalog" vertex="1">
+        <mxCell id="4r83p15s9ez-3FcvzZaR-11" parent="-XLg5wcP90mpJ0sevKeQ-11" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Polaris 统一 Catalog&amp;nbsp;（Iceberg 元数据中心）" vertex="1">
           <mxGeometry height="30" width="470" x="20" y="185" as="geometry" />
         </mxCell>
         <mxCell id="4r83p15s9ez-3FcvzZaR-18" connectable="0" parent="-XLg5wcP90mpJ0sevKeQ-11" style="group;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
@@ -153,7 +153,7 @@
         <mxCell id="4r83p15s9ez-3FcvzZaR-49" parent="4r83p15s9ez-3FcvzZaR-53" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" value="权限管理&amp;nbsp;&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Ranger&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="120" x="15" y="53" as="geometry" />
         </mxCell>
-        <mxCell id="4r83p15s9ez-3FcvzZaR-58" parent="4r83p15s9ez-3FcvzZaR-53" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" value="元数据管理&amp;nbsp;&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Ranger&lt;/span&gt;" vertex="1">
+        <mxCell id="4r83p15s9ez-3FcvzZaR-58" parent="4r83p15s9ez-3FcvzZaR-53" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" value="元数据管理&amp;nbsp; OpenMetadata&amp;nbsp;" vertex="1">
           <mxGeometry height="30" width="120" x="15" y="100" as="geometry" />
         </mxCell>
         <mxCell id="4r83p15s9ez-3FcvzZaR-65" parent="4r83p15s9ez-3FcvzZaR-53" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" value="数据脱敏 Ranger" vertex="1">
